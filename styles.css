@@ -39,7 +39,9 @@ header {
     max-width: 600px;
 }
 
+/* Hides the blinking text cursor */
 * {
-    cursor: none;
+    caret-color: transparent;
 }
+
 
