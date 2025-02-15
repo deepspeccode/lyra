@@ -1,0 +1,21 @@
+/* Global Styles */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #666666;
+    color: white;
+    font-family: 'Jost', sans-serif;
+}
+
+/* Header Styling */
+header {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    padding-left: 50px;
+}
+    
+.logo {
+    font-size: 32px;
+    font-weight: 700;
+}
